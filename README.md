@@ -223,7 +223,7 @@ The following screenshots demonstrate the completed museum environment and the i
 
 The museum overview shows the enclosed museum environment, lighting, exhibit pedestals, and the overall arrangement of the astronomical exhibits.
 
-![Museum Overview](Screenshots/MuseumOverview.png)
+![Museum Overview](https://github.com/overootheroot/CSC592-Assignment2-VRMuseum/blob/main/Screenshots%20/Sun.png)
 
 ---
 
