@@ -327,6 +327,6 @@ The completed museum was tested to verify that:
 **Course:** CSC 592  
 **Assignment:** Assignment 2 – VR Museum  
 **Project:** VR Space Museum  
-**Development Platform:** Unity 6  
+**Development Platform:** Unity 6.3 LTS — version 6000.3.22f1 
 **XR Framework:** Unity XR Interaction Toolkit  
 **Bonus Completed:** Bonus 2 – Animation on Exhibitions
