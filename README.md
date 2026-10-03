@@ -223,7 +223,7 @@ The following screenshots demonstrate the completed museum environment and the i
 
 The museum overview shows the enclosed museum environment, lighting, exhibit pedestals, and the overall arrangement of the astronomical exhibits.
 
-![Museum Overview](https://github.com/overootheroot/CSC592-Assignment2-VRMuseum/blob/main/Screenshots%20/Sun.png)
+![Museum Overview](https://github.com/overootheroot/CSC592-Assignment2-VRMuseum/blob/main/Screenshots%20/MuseumOverview.png)
 
 ---
 
@@ -231,7 +231,7 @@ The museum overview shows the enclosed museum environment, lighting, exhibit ped
 
 The Sun exhibit includes a proximity-based educational information panel and rotation animation.
 
-![Sun Exhibit](Screenshots/Sun.png)
+![Sun Exhibit](https://github.com/overootheroot/CSC592-Assignment2-VRMuseum/blob/main/Screenshots%20/Sun.png)
 
 ---
 
@@ -239,7 +239,7 @@ The Sun exhibit includes a proximity-based educational information panel and rot
 
 The Earth exhibit displays educational information when the user approaches the planet.
 
-![Earth Exhibit](Screenshots/Earth.png)
+![Earth Exhibit](https://github.com/overootheroot/CSC592-Assignment2-VRMuseum/blob/main/Screenshots%20/Earth.png)
 
 ---
 
@@ -247,7 +247,7 @@ The Earth exhibit displays educational information when the user approaches the 
 
 The Moon exhibit contains its own proximity-triggered educational information panel.
 
-![Moon Exhibit](Screenshots/Moon.png)
+![Moon Exhibit](https://github.com/overootheroot/CSC592-Assignment2-VRMuseum/blob/main/Screenshots%20/Moon.png)
 
 ---
 
@@ -255,7 +255,7 @@ The Moon exhibit contains its own proximity-triggered educational information pa
 
 The Mars information panel automatically appears when the user enters the exhibit's proximity area.
 
-![Mars Exhibit](Screenshots/Mars.png)
+![Mars Exhibit](https://github.com/overootheroot/CSC592-Assignment2-VRMuseum/blob/main/Screenshots%20/Mars.png)
 
 ---
 
@@ -263,13 +263,14 @@ The Mars information panel automatically appears when the user enters the exhibi
 
 The Saturn exhibit includes the planet's ring system and an educational information panel containing information about Saturn and its rings.
 
-![Saturn Exhibit](Screenshots/Saturn.png)
+![Saturn Exhibit](https://github.com/overootheroot/CSC592-Assignment2-VRMuseum/blob/main/Screenshots%20/Saturn.png)
 
 ---
 
 # Demo Video
 
-The following screen recording demonstrates the completed VR Space Museum in operation.
+The screen recording demonstrates the completed VR Space Museum in operation.
+![Saturn Exhibit](https://github.com/overootheroot/CSC592-Assignment2-VRMuseum/blob/main/Screenshots%20/Saturn.png)
 
 The demonstration includes:
 
