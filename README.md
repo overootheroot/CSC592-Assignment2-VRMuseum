@@ -270,7 +270,7 @@ The Saturn exhibit includes the planet's ring system and an educational informat
 # Demo Video
 
 The screen recording demonstrates the completed VR Space Museum in operation.
-![Saturn Exhibit](https://github.com/overootheroot/CSC592-Assignment2-VRMuseum/blob/main/Screenshots%20/Saturn.png)
+![Demo Video](SpaceMuseumDemo.mp4)
 
 The demonstration includes:
 
